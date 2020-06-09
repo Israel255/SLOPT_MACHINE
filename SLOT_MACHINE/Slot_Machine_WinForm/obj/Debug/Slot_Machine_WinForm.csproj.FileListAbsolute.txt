@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\bin\Debug\Slot_Machine_WinForm.exe.config
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\bin\Debug\Slot_Machine_WinForm.exe
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\bin\Debug\Slot_Machine_WinForm.pdb
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.MainForm.resources
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.exe
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.pdb
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\עבודות\מכונת המזל\SLOT_MACHINE\Slot_Machine_WinForm\obj\Debug\Slot_Machine_WinForm.csproj.ResolveComReference.cache
